@@ -1,5 +1,5 @@
 
-***SQL learning curve links
+*** SQL learning curve links
 
 https://sqlzoo.net/
 
